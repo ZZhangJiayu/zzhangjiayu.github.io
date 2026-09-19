@@ -1,3 +1,3 @@
 # Personal Wbepage
 ## GitHub Pages
-[GitHub Padges](https://zzhangjiayu.github.io/)
+[My GitHub Pages](https://zzhangjiayu.github.io/)
